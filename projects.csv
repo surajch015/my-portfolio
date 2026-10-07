@@ -1,0 +1,4 @@
+title,type,description,stack,link
+"Text-to-Voice Speech","Python application","A lightweight text-to-speech converter that turns written text into spoken audio, with real-time playback and MP3 export.","Python • TTS • Audio","https://github.com/surajch015/Text-to-voice-speech"
+"Snake Game","Python game","A classic Snake Game with smooth controls, score tracking, food spawning, and game-over detection, built to practice Python and game development.","Python • Game development","https://github.com/surajch015/Snake-game----pyhton"
+"Stone Paper Scissor","Python mini-project","A terminal-based tournament game where players compete against the computer across multiple rounds while scores are tracked until a target score is reached.","Python • Game logic","https://github.com/surajch015/Stone-Paper-Scissor-Python-Program"
